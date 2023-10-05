@@ -42,7 +42,7 @@ export default class ActorDnd5eResources {
         //
         return this.count_player_items(item_names)
       default:
-        return this.count_player_items(item_names)
+        return
     }
   }
 

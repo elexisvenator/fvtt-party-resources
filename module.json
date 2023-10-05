@@ -14,8 +14,8 @@
   ],
   "url": "https://github.com/elexisvenator/fvtt-party-resources",
   "manifest": "https://raw.githubusercontent.com/elexisvenator/fvtt-party-resources/master/module.json",
-  "download": "https://github.com/elexisvenator/fvtt-party-resources/releases/download/1.6.0/module.zip",
-  "version": "1.6.0",
+  "download": "https://github.com/elexisvenator/fvtt-party-resources/releases/download/1.6.1/module.zip",
+  "version": "1.6.1",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "11",
   "compatibility": {
